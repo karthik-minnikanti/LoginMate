@@ -1,6 +1,6 @@
-# MagicLogin
+# LoginMate
 
-**MagicLogin** is a Chrome extension that helps you save login credentials along with custom form selectors to automatically fill and submit login forms on your favorite websites.
+**LoginMate** is a Chrome extension that helps you save login credentials along with custom form selectors to automatically fill and submit login forms on your favorite websites.
 
 ## 🚀 Features
 
